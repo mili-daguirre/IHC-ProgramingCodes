@@ -1,11 +1,11 @@
 :root{
     --green: hsl(162, 45%, 56%); 
     --lead: hsl(162, 2%, 56%); 
-    --blue: hsl(220, 85%, 57%); 
+    --purple: hsl(295, 80%, 66%);  
     --violet: hsl(272, 92%, 32%); 
     --text-white: hsl(0, 0%, 100%); 
     --text-light-gray: hsl(0, 0%, 90%); 
-    --body-bg-color: hsl(200, 54%, 12%); 
+    --body-bg-color: hsl(295, 80%, 66%); 
     --glass-bg-color: hsl(0, 0%, 100%, 0.05); 
     --border-color: hsl(0, 0%, 100%, 0.25); 
     --blur: blur(10px);
